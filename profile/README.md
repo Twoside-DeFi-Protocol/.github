@@ -7,7 +7,7 @@
   
   [![Website](https://img.shields.io/badge/Website-twoside.finance-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.twoside.finance/)
   [![Twitter](https://img.shields.io/badge/Twitter-@TwosideFinance-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TwosideFinance)
-  [![GitHub](https://img.shields.io/badge/GitHub-Monorepo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buff-Cat-DeFi-Protocol/monorepo)
+  [![GitHub](https://img.shields.io/badge/GitHub-Monorepo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Twoside-DeFi-Protocol/monorepo)
   
   ---
 </div>
