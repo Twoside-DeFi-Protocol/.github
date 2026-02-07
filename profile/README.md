@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Buff-Cat-DeFi-Protocol/monorepo/blob/main/apps/web/public/favicon-96x96.png" alt="Twoside Logo" width="120" height="120">
+  <img src="https://github.com/Twoside-DeFi-Protocol/monorepo/blob/main/apps/web/public/favicon-96x96.png" alt="Twoside Logo" width="120" height="120">
   
   # Twoside
   
