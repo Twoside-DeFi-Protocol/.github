@@ -19,17 +19,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="50" height="50" alt="Ethereum"/><br>
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="50" height="50" alt="Ethereum"/><br>
       <b>Ethereum</b><br>
       ✅ Live
     </td>
     <td align="center">
-      <img src="https://github.com/base-org/brand-kit/raw/main/logo/in-product/Base_Network_Logo.svg" width="50" height="50" alt="Base"/><br>
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/27789.png" width="50" height="50" alt="Base"/><br>
       <b>Base</b><br>
       ✅ Live
     </td>
     <td align="center">
-      <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="50" height="50" alt="Solana"/><br>
+      <img src="https://s3.coinmarketcap.com/static-gravity/image/58ba0011f24d47c4b2e8adaa873bb280.jpg" width="50" height="50" alt="Solana"/><br>
       <b>Solana</b><br>
       🔜 Coming Soon
     </td>
