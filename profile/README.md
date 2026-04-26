@@ -31,7 +31,7 @@
     <td align="center">
       <img src="https://s3.coinmarketcap.com/static-gravity/image/58ba0011f24d47c4b2e8adaa873bb280.jpg" width="50" height="50" alt="Solana"/><br>
       <b>Solana</b><br>
-      🔜 Coming Soon
+      ✅ Live
     </td>
   </tr>
 </table>
